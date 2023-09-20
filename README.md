@@ -1,2 +1,0 @@
-# Prosjekt-Memos
-test
